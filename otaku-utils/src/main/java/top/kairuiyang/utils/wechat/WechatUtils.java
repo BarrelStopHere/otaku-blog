@@ -1,4 +1,4 @@
-package top.kairuiyang.utils.wechat;//package com.moxi.mogublog.utils.wechat;
+package top.kairuiyang.utils.wechat;//package top.kairuiyang.utils.wechat;
 //
 //import com.alibaba.fastjson.JSONObject;
 //import com.bhudy.entity.BhudyPlugin;

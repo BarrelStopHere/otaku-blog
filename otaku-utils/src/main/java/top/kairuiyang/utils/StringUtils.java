@@ -310,7 +310,7 @@ public class StringUtils {
      * @return
      */
     public static Long getSnowflakeId() {
-        com.moxi.mogublog.utils.SnowflakeIdWorker snowflakeIdWorker = new com.moxi.mogublog.utils.SnowflakeIdWorker(0, 0);
+        SnowflakeIdWorker snowflakeIdWorker = new SnowflakeIdWorker(0, 0);
         return snowflakeIdWorker.nextId();
     }
 
